@@ -1,24 +1,28 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Aman%20Shakya&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=JavaScript%20Developer%20%E2%80%94%20Building%20the%20Future%2C%20One%20Line%20at%20a%20Time&descAlignY=60&descColor=ccc&descSize=18" width="100%" />
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=AMAN%20SHAKYA&fontSize=60&fontColor=00f5ff&animation=fadeIn&fontAlignY=38&desc=JavaScript%20Developer%20%7C%20Building%20the%20Future%2C%20One%20Line%20at%20a%20Time&descAlignY=60&descColor=a78bfa" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=false&width=600&lines=Less+Code%2C+More+Effective+%E2%9A%A1;Full-Stack+JavaScript+Developer+%F0%9F%9A%80;Building+Clean+%26+Scalable+Web+Apps+%F0%9F%8C%90;Based+in+Gurgaon%2C+India+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Aman+%F0%9F%91%8B;Full-Stack+JavaScript+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+React+Native+%7C+Next.js;Less+Code%2C+More+Effective+%E2%9A%A1;Always+building%2C+always+learning+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=amanshakya2001&style=for-the-badge&color=00f5ff&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/amanshakya2001?style=for-the-badge&color=a78bfa&labelColor=0d1117&label=FOLLOWERS)
-![GitHub User's stars](https://img.shields.io/github/stars/amanshakya2001?style=for-the-badge&color=00f5ff&labelColor=0d1117&label=TOTAL+STARS)
+<a href="https://github.com/amanshakya2001">
+  <img src="https://komarev.com/ghpvc/?username=amanshakya2001&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Profile Views"/>
+</a>
+<a href="https://github.com/amanshakya2001?tab=followers">
+  <img src="https://img.shields.io/github/followers/amanshakya2001?style=for-the-badge&color=a78bfa&labelColor=1c1917&label=Followers" alt="Followers"/>
+</a>
+<a href="https://github.com/amanshakya2001">
+  <img src="https://img.shields.io/github/stars/amanshakya2001?style=for-the-badge&color=f59e0b&labelColor=1c1917&label=Stars" alt="Stars"/>
+</a>
 
 </div>
+
+<br/>
 
 ---
 
-<div align="center">
-
-## ◈ SYSTEM OVERVIEW ◈
-
-</div>
+## 🧑‍💻 About Me
 
 ```javascript
 const aman = {
@@ -26,107 +30,154 @@ const aman = {
   location    : "Gurgaon, India 🌏",
   role        : "JavaScript Developer",
   philosophy  : "Less Code, More Effective ⚡",
-  currentFocus: "Building clean, scalable web applications",
-  learning    : ["Advanced React Patterns", "System Design", "TypeScript"],
-  openTo      : ["Collaborations", "Freelance", "Full-time Opportunities"],
-  contact     : "github.com/amanshakya2001",
+  currentFocus: ["React Native", "System Design", "Scalable APIs"],
+  learning    : ["TypeScript", "Advanced React Patterns", "Cloud Architecture"],
+  openTo      : ["Collaborations 🤝", "Freelance 💼", "Full-time Roles 🚀"],
+  funFact     : "I debug with console.log and I'm not ashamed of it 😄",
 };
 ```
 
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+### What I do:
+- 🔭 Building **mobile apps** with React Native + Expo + TypeScript
+- 🌐 Crafting **full-stack web apps** with Next.js, Node.js & PostgreSQL
+- ⚡ Designing **real-time** features with Socket.io & WebRTC
+- ☁️ Integrating **cloud services** — AWS S3, Supabase, Firebase
+- 🛠️ Writing **clean, maintainable** JavaScript & TypeScript
+
+<br clear="right"/>
+
 ---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-## ◈ TECH ARSENAL ◈
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css&theme=dark)](https://skillicons.dev)
 
-**Languages**
+### Frontend & Mobile
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,react,expo,tailwind,sass&theme=dark)](https://skillicons.dev)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+<sub>React &nbsp;|&nbsp; Next.js &nbsp;|&nbsp; React Native &nbsp;|&nbsp; Expo &nbsp;|&nbsp; Tailwind CSS &nbsp;|&nbsp; Sass</sub>
 
-**Frameworks & Libraries**
+### Backend & Databases
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase,supabase&theme=dark)](https://skillicons.dev)
 
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=ffffff)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=ffffff)
-![Socket.io](https://img.shields.io/badge/Socket.io-0d1117?style=for-the-badge&logo=socket.io&logoColor=ffffff)
-![Expo](https://img.shields.io/badge/Expo-0d1117?style=for-the-badge&logo=expo&logoColor=ffffff)
+<sub>Node.js &nbsp;|&nbsp; Express &nbsp;|&nbsp; MongoDB &nbsp;|&nbsp; PostgreSQL &nbsp;|&nbsp; Firebase &nbsp;|&nbsp; Supabase</sub>
 
-**Databases & Cloud**
+### Cloud & Tools
+[![My Skills](https://skillicons.dev/icons?i=aws,prisma,git,github,vscode,postman&theme=dark)](https://skillicons.dev)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791)
-![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-![AWS S3](https://img.shields.io/badge/AWS_S3-0d1117?style=for-the-badge&logo=amazons3&logoColor=FF9900)
-![Prisma](https://img.shields.io/badge/Prisma-0d1117?style=for-the-badge&logo=prisma&logoColor=ffffff)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![JWT](https://img.shields.io/badge/JWT-0d1117?style=for-the-badge&logo=jsonwebtokens&logoColor=ffffff)
+<sub>AWS S3 &nbsp;|&nbsp; Prisma &nbsp;|&nbsp; Git &nbsp;|&nbsp; GitHub &nbsp;|&nbsp; VS Code &nbsp;|&nbsp; Postman</sub>
 
 </div>
 
 ---
 
+## 🏆 GitHub Trophies
+
 <div align="center">
 
-## ◈ MISSION LOGS — PROJECTS ◈
+<img src="https://github-profile-trophy.vercel.app/?username=amanshakya2001&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
 
 </div>
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [🏠 Home Bill & Rent Manager](https://github.com/amanshakya2001/home-bill-rent-management-project) | Mobile app to track bills, rent, and expenses with AI meter scan | React Native · TypeScript · Expo · SQLite |
-| [🍱 Office Food Management](https://github.com/amanshakya2001/office-food-management-project) | Office food ordering app with Supabase backend and cost splitting | React Native · TypeScript · Supabase |
-| [📚 Rent Your Book](https://github.com/amanshakya2001/rent-your-book-project) | Full-stack book rental platform with AWS S3 and Prisma ORM | Next.js · PostgreSQL · AWS S3 · Prisma |
-| [💬 Online Chat](https://github.com/amanshakya2001/online-chat-project) | Real-time chat and video calling with Socket.io and WebRTC | Node.js · Socket.io · React · PostgreSQL |
-| [🎥 Video Chat](https://github.com/amanshakya2001/video-chat-project) | Peer-to-peer video chat using WebRTC and Socket.io signalling | Node.js · Socket.io · WebRTC · React |
-| [🗓️ Meeting Room Manager](https://github.com/amanshakya2001/meeting-room-manager-project) | Smart room booking with email notifications and RBAC | Node.js · MongoDB · JWT · Nodemailer |
-| [✍️ Blog Platform](https://github.com/amanshakya2001/blog-platform-project) | Full-stack blog with auth, image uploads, and comments | Node.js · MongoDB · JWT · Multer |
-| [🔗 URL Shortener](https://github.com/amanshakya2001/url-shortener-project) | URL shortener with click tracking and admin dashboard | Node.js · MongoDB · JWT |
-| [📝 Notes App](https://github.com/amanshakya2001/notes-app-project) | Full-stack notes app with Firebase auth and PostgreSQL | React · Firebase · Node.js · PostgreSQL |
-| [🎨 Canvas Hive](https://github.com/amanshakya2001/painting-project) | Painting showcase platform with live chat and admin panel | React · Node.js · PostgreSQL · Firebase |
-
 ---
+
+## 🚀 Featured Projects
 
 <div align="center">
 
-## ◈ GITHUB STATS ◈
+<a href="https://github.com/amanshakya2001/home-bill-rent-management-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amanshakya2001&repo=home-bill-rent-management-project&theme=radical&bg_color=0d1117&border_color=7c3aed&title_color=00f5ff&text_color=ccc&icon_color=a78bfa" />
+</a>
+<a href="https://github.com/amanshakya2001/rent-your-book-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amanshakya2001&repo=rent-your-book-project&theme=radical&bg_color=0d1117&border_color=7c3aed&title_color=00f5ff&text_color=ccc&icon_color=a78bfa" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=amanshakya2001&show_icons=true&theme=merko&bg_color=0d1117&border_color=00f5ff&title_color=00f5ff&icon_color=a78bfa&text_color=ffffff&hide_border=false&rank_icon=github" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanshakya2001&layout=compact&theme=merko&bg_color=0d1117&border_color=00f5ff&title_color=00f5ff&text_color=ffffff" width="49%" />
+<a href="https://github.com/amanshakya2001/online-chat-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amanshakya2001&repo=online-chat-project&theme=radical&bg_color=0d1117&border_color=7c3aed&title_color=00f5ff&text_color=ccc&icon_color=a78bfa" />
+</a>
+<a href="https://github.com/amanshakya2001/office-food-management-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amanshakya2001&repo=office-food-management-project&theme=radical&bg_color=0d1117&border_color=7c3aed&title_color=00f5ff&text_color=ccc&icon_color=a78bfa" />
+</a>
+
+</div>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amanshakya2001&theme=black-ice&background=0d1117&ring=00f5ff&fire=a78bfa&currStreakLabel=00f5ff&border=00f5ff" width="60%" />
+<details>
+<summary><b>📂 View All Projects</b></summary>
+<br/>
+
+| 🚀 Project | 📝 Description | 🛠️ Stack |
+|-----------|---------------|---------|
+| [🏠 Home Bill & Rent Manager](https://github.com/amanshakya2001/home-bill-rent-management-project) | Mobile app with AI meter scan, expense tracking & charts | React Native · TypeScript · Expo · SQLite |
+| [🍱 Office Food Management](https://github.com/amanshakya2001/office-food-management-project) | Office food ordering with Supabase & cost splitting | React Native · TypeScript · Supabase |
+| [📚 Rent Your Book](https://github.com/amanshakya2001/rent-your-book-project) | Book rental platform with AWS S3 & Prisma ORM | Next.js · PostgreSQL · AWS S3 · Prisma |
+| [💬 Online Chat](https://github.com/amanshakya2001/online-chat-project) | Real-time chat & video calling with WebRTC | Node.js · Socket.io · React · PostgreSQL |
+| [🎥 Video Chat](https://github.com/amanshakya2001/video-chat-project) | P2P video chat with Socket.io signalling | Node.js · Socket.io · WebRTC · React |
+| [🗓️ Meeting Room Manager](https://github.com/amanshakya2001/meeting-room-manager-project) | Room booking with RBAC & email notifications | Node.js · MongoDB · JWT · Nodemailer |
+| [✍️ Blog Platform](https://github.com/amanshakya2001/blog-platform-project) | Full-stack blog with auth & image uploads | Node.js · MongoDB · JWT · Multer |
+| [🔗 URL Shortener](https://github.com/amanshakya2001/url-shortener-project) | URL shortener with click tracking & admin panel | Node.js · MongoDB · JWT |
+| [📝 Notes App](https://github.com/amanshakya2001/notes-app-project) | Notes app with Firebase auth & PostgreSQL | React · Firebase · Node.js · PostgreSQL |
+| [🎨 Canvas Hive](https://github.com/amanshakya2001/painting-project) | Painting showcase with live chat & admin panel | React · Node.js · PostgreSQL · Firebase |
+
+</details>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=amanshakya2001&show_icons=true&theme=radical&bg_color=0d1117&border_color=7c3aed&title_color=00f5ff&icon_color=a78bfa&text_color=ffffff&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanshakya2001&layout=compact&theme=radical&bg_color=0d1117&border_color=7c3aed&title_color=00f5ff&text_color=ffffff&langs_count=8" width="48%" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amanshakya2001&bg_color=0d1117&color=00f5ff&line=a78bfa&point=ffffff&area=true&hide_border=false&border_color=00f5ff" width="98%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amanshakya2001&theme=radical&background=0d1117&ring=00f5ff&fire=a78bfa&currStreakLabel=00f5ff&border=7c3aed&sideLabels=ffffff&dates=888888" width="60%" />
 
 </div>
 
 ---
 
+## 🐍 Contribution Graph
+
 <div align="center">
 
-## ◈ CONNECT ◈
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amanshakya2001&bg_color=0d1117&color=00f5ff&line=7c3aed&point=a78bfa&area=true&area_color=7c3aed&hide_border=false&border_color=7c3aed&radius=8" width="98%" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00f5ff)](https://github.com/amanshakya2001)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/amanshakya2001)
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:amanshakya2001@gmail.com)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amanshakya2001/amanshakya2001/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amanshakya2001/amanshakya2001/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/amanshakya2001/amanshakya2001/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/amanshakya2001">
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00f5ff&labelColor=0d1117" />
+</a>
+<a href="https://linkedin.com/in/amanshakya2001">
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117" />
+</a>
+<a href="mailto:amanshakya2001@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117" />
+</a>
+
+<br/><br/>
+
+> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* — Martin Fowler
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" />
