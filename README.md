@@ -42,23 +42,36 @@ const aman = {
 **Languages**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
 
 **Frameworks & Libraries**
 
 ![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=ffffff)
+![Socket.io](https://img.shields.io/badge/Socket.io-0d1117?style=for-the-badge&logo=socket.io&logoColor=ffffff)
+![Expo](https://img.shields.io/badge/Expo-0d1117?style=for-the-badge&logo=expo&logoColor=ffffff)
+
+**Databases & Cloud**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![AWS S3](https://img.shields.io/badge/AWS_S3-0d1117?style=for-the-badge&logo=amazons3&logoColor=FF9900)
+![Prisma](https://img.shields.io/badge/Prisma-0d1117?style=for-the-badge&logo=prisma&logoColor=ffffff)
 
 **Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)
 ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![JWT](https://img.shields.io/badge/JWT-0d1117?style=for-the-badge&logo=jsonwebtokens&logoColor=ffffff)
 
 </div>
 
@@ -72,13 +85,16 @@ const aman = {
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [🔗 URL Shortener](https://github.com/amanshakya2001/url-shortener-project) | Clean, shareable short links from long URLs | Node.js · EJS |
-| [📝 Blog Platform](https://github.com/amanshakya2001/blog-platform-project) | Sleek blog platform built for modern writers | CSS · JS |
-| [🎥 Video Upload](https://github.com/amanshakya2001/video-upload-project) | Full-stack video upload and management app | JavaScript |
-| [📚 Rent Your Book](https://github.com/amanshakya2001/rent-your-book-project) | Book rental system for readers | JavaScript |
-| [🗓️ Meeting Room Manager](https://github.com/amanshakya2001/meeting-room-manager-project) | Smart room booking and scheduling | EJS · Node.js |
-| [🖼️ Image Converter](https://github.com/amanshakya2001/image-convert-project) | Browser-based image format converter | HTML · JS |
-| [🛒 Shopkart](https://github.com/amanshakya2001/Shopkart) | E-commerce web application | JavaScript |
+| [🏠 Home Bill & Rent Manager](https://github.com/amanshakya2001/home-bill-rent-management-project) | Mobile app to track bills, rent, and expenses with AI meter scan | React Native · TypeScript · Expo · SQLite |
+| [🍱 Office Food Management](https://github.com/amanshakya2001/office-food-management-project) | Office food ordering app with Supabase backend and cost splitting | React Native · TypeScript · Supabase |
+| [📚 Rent Your Book](https://github.com/amanshakya2001/rent-your-book-project) | Full-stack book rental platform with AWS S3 and Prisma ORM | Next.js · PostgreSQL · AWS S3 · Prisma |
+| [💬 Online Chat](https://github.com/amanshakya2001/online-chat-project) | Real-time chat and video calling with Socket.io and WebRTC | Node.js · Socket.io · React · PostgreSQL |
+| [🎥 Video Chat](https://github.com/amanshakya2001/video-chat-project) | Peer-to-peer video chat using WebRTC and Socket.io signalling | Node.js · Socket.io · WebRTC · React |
+| [🗓️ Meeting Room Manager](https://github.com/amanshakya2001/meeting-room-manager-project) | Smart room booking with email notifications and RBAC | Node.js · MongoDB · JWT · Nodemailer |
+| [✍️ Blog Platform](https://github.com/amanshakya2001/blog-platform-project) | Full-stack blog with auth, image uploads, and comments | Node.js · MongoDB · JWT · Multer |
+| [🔗 URL Shortener](https://github.com/amanshakya2001/url-shortener-project) | URL shortener with click tracking and admin dashboard | Node.js · MongoDB · JWT |
+| [📝 Notes App](https://github.com/amanshakya2001/notes-app-project) | Full-stack notes app with Firebase auth and PostgreSQL | React · Firebase · Node.js · PostgreSQL |
+| [🎨 Canvas Hive](https://github.com/amanshakya2001/painting-project) | Painting showcase platform with live chat and admin panel | React · Node.js · PostgreSQL · Firebase |
 
 ---
 
