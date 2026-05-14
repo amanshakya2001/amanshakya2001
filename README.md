@@ -88,28 +88,77 @@ const aman = {
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/amanshakya2001/home-bill-rent-management-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amanshakya2001&repo=home-bill-rent-management-project&theme=radical&bg_color=0d1117&border_color=7c3aed&title_color=00f5ff&text_color=ccc&icon_color=a78bfa" />
-</a>
-<a href="https://github.com/amanshakya2001/rent-your-book-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amanshakya2001&repo=rent-your-book-project&theme=radical&bg_color=0d1117&border_color=7c3aed&title_color=00f5ff&text_color=ccc&icon_color=a78bfa" />
-</a>
-
-<a href="https://github.com/amanshakya2001/online-chat-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amanshakya2001&repo=online-chat-project&theme=radical&bg_color=0d1117&border_color=7c3aed&title_color=00f5ff&text_color=ccc&icon_color=a78bfa" />
-</a>
-<a href="https://github.com/amanshakya2001/office-food-management-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amanshakya2001&repo=office-food-management-project&theme=radical&bg_color=0d1117&border_color=7c3aed&title_color=00f5ff&text_color=ccc&icon_color=a78bfa" />
-</a>
-
-</div>
-
-<br/>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏠 <a href="https://github.com/amanshakya2001/home-bill-rent-management-project">Home Bill & Rent Manager</a></h3>
+      <p>Mobile app to track household bills, rent & expenses with AI-powered meter scanning and spending charts.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 <a href="https://github.com/amanshakya2001/rent-your-book-project">Rent Your Book</a></h3>
+      <p>Full-stack book rental platform with AWS S3 image storage, Prisma ORM, PostgreSQL and analytics dashboard.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazons3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💬 <a href="https://github.com/amanshakya2001/online-chat-project">Online Chat</a></h3>
+      <p>Real-time chat and video calling app with Socket.io, WebRTC peer-to-peer calls, Firebase auth and online presence.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🍱 <a href="https://github.com/amanshakya2001/office-food-management-project">Office Food Management</a></h3>
+      <p>Cross-platform mobile app for office food ordering with Supabase backend, auth, and team cost splitting.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗓️ <a href="https://github.com/amanshakya2001/meeting-room-manager-project">Meeting Room Manager</a></h3>
+      <p>Smart meeting room booking system with RBAC, JWT auth, email notifications and cron-based reminders.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Nodemailer-22B573?style=flat-square&logo=gmail&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎥 <a href="https://github.com/amanshakya2001/video-chat-project">Video Chat</a></h3>
+      <p>Peer-to-peer video & audio chat using WebRTC with Socket.io signalling server and Material-UI React client.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <details>
-<summary><b>📂 View All Projects</b></summary>
+<summary><b>📂 View All 10 Projects</b></summary>
 <br/>
 
 | 🚀 Project | 📝 Description | 🛠️ Stack |
@@ -150,11 +199,6 @@ const aman = {
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanshakya2001&bg_color=0d1117&color=00f5ff&line=7c3aed&point=a78bfa&area=true&area_color=7c3aed&hide_border=false&border_color=7c3aed&radius=8" width="98%" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amanshakya2001/amanshakya2001/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amanshakya2001/amanshakya2001/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/amanshakya2001/amanshakya2001/output/github-contribution-grid-snake.svg" />
-</picture>
 
 </div>
 
