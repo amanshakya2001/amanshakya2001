@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Aman%20Shakya&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=JavaScript%20Developer%20%E2%80%94%20Building%20the%20Future%2C%20One%20Line%20at%20a%20Time&descAlignY=60&descColor=ccc&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Aman%20Shakya&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%94%20Building%20the%20Future%2C%20One%20Line%20at%20a%20Time&descAlignY=60&descColor=ccc&descSize=18" width="100%" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Aman+%F0%9F%91%8B;Full-Stack+JavaScript+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+React+Native+%7C+Next.js;Less+Code%2C+More+Effective+%E2%9A%A1;Always+building%2C+always+learning+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Aman+%F0%9F%91%8B;Full-Stack+Engineer+%F0%9F%9A%80;React+%7C+Node.js+%7C+React+Native+%7C+Next.js;Less+Code%2C+More+Effective+%E2%9A%A1;Always+building%2C+always+learning+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <br/>
 
@@ -28,12 +28,11 @@
 const aman = {
   name        : "Aman Shakya",
   location    : "Gurgaon, India 🌏",
-  role        : "JavaScript Developer",
+  role        : "Full-Stack Engineer @ Analytics Vidhya",
   philosophy  : "Less Code, More Effective ⚡",
   currentFocus: ["React Native", "System Design", "Scalable APIs"],
-  learning    : ["TypeScript", "Advanced React Patterns", "Cloud Architecture"],
+  learning    : ["Advanced React Patterns", "Cloud Architecture", "LLM / AI Integrations"],
   openTo      : ["Collaborations 🤝", "Freelance 💼", "Full-time Roles 🚀"],
-  funFact     : "I debug with console.log and I'm not ashamed of it 😄",
 };
 ```
 
@@ -211,7 +210,7 @@ const aman = {
 <a href="https://github.com/amanshakya2001">
   <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00f5ff&labelColor=0d1117" />
 </a>
-<a href="https://linkedin.com/in/amanshakya2001">
+<a href="https://www.linkedin.com/in/aman-shakya-12325821b/">
   <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117" />
 </a>
 <a href="mailto:amanshakya2001@gmail.com">
